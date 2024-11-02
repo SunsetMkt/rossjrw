@@ -930,7 +930,7 @@
     "time": "2024-11-02T16:54:58.527Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/c219f9e2d0ff17c3faa3d3259d4110585d1e708e/games/current/board.3685.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -940,5 +940,22 @@
     "fromPosition": 0,
     "toPosition": 2,
     "roll": 2
+  },
+  {
+    "username": "LucasFASouza",
+    "issue": 3686,
+    "time": "2024-11-02T17:03:01.251Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": true,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 5,
+    "roll": 3
   }
 ]
