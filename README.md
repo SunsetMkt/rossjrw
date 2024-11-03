@@ -18,15 +18,16 @@ You're on a team! :wave:
 * If you've not yet played a turn this game, make a move now to join the
   **:black_circle:black** team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3749.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3750.svg"></p>
 
   **:black_circle:Black team:**
-  You rolled a 2!
+  You rolled a 3!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [:rosette:    Move the piece on tile 6 to tile 8](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%406-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 4 to tile 7](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%404-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 8 to tile 11](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%408-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -45,7 +46,7 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (51)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (3)<br><b><a href="https://github.com/nxdun">@nxdun</a></b> (1)<br><b><a href="https://github.com/figuran04">@figuran04</a></b> (1)</td>
+        <td><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (52)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (3)<br><b><a href="https://github.com/nxdun">@nxdun</a></b> (1)<br><b><a href="https://github.com/figuran04">@figuran04</a></b> (1)</td>
         <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (45)<br><b><a href="https://github.com/MatissesProjects">@MatissesProjects</a></b> (14)<br><b><a href="https://github.com/huuquyet">@huuquyet</a></b> (4)</td>
       </tr>
     </tbody>
@@ -177,7 +178,8 @@ What would you like to do?
   | 3rd Nov 2024 21:47 | **119** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 1    | [#3746](https://github.com/rossjrw/rossjrw/issues/3746) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/bdd78f45b478c89d297bd87a7bc7ed8e677e169c/games/current/board.3746.svg) |
   | 3rd Nov 2024 21:51 | **120** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 3 to position 6 — captured a white piece :crossed_swords:   | [#3747](https://github.com/rossjrw/rossjrw/issues/3747) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a989f821f1697ef930bf6b40c7e5fe84ccc311bc/games/current/board.3747.svg) |
   | 3rd Nov 2024 22:00 | **121** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 1 to position 4  — claimed a rosette :rosette:  | [#3748](https://github.com/rossjrw/rossjrw/issues/3748) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/78a8c4c842bbc4c092a9d37fd176b527e4a7ba64/games/current/board.3748.svg) |
-  | 3rd Nov 2024 22:02 | **122** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 10 to position 12    | [#3749](https://github.com/rossjrw/rossjrw/issues/3749) |  |
+  | 3rd Nov 2024 22:02 | **122** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 10 to position 12    | [#3749](https://github.com/rossjrw/rossjrw/issues/3749) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/ae0537c481ba10e4d8cce1a3b7a36b86e668a255/games/current/board.3749.svg) |
+  | 3rd Nov 2024 22:48 | **123** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 6 to position 8  — claimed a rosette :rosette:  | [#3750](https://github.com/rossjrw/rossjrw/issues/3750) |  |
 
 </details>
 
