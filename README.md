@@ -1,11 +1,11 @@
 Welcome to my Github profile!
 We're playing
 [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur).
-**Game #24 is in progress,** but you can join!
+**Game #25 is in progress,** but you can join!
 
 <p align="center">
   <b>It's the
-  :white_circle:white
+  :black_circle:black
   team's turn.</b>
 </p>
 
@@ -16,11 +16,11 @@ You're on a team! :wave:
   check back later, or [ask a
   friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
 * If you've not yet played a turn this game, make a move now to join the
-  **:white_circle:white** team.
+  **:black_circle:black** team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3782.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3783.svg"></p>
 
-  **:white_circle:White team:**
+  **:black_circle:Black team:**
   You rolled a 3!
 What would you like to do?
 
@@ -31,7 +31,7 @@ What would you like to do?
 -----
 
 <details>
-<summary><b>Game #24 so far</b></summary>
+<summary><b>Game #25 so far</b></summary>
 
 ## Who's on each team?
 
@@ -46,7 +46,7 @@ What would you like to do?
       </tr>
       <tr align="center">
         <td></td>
-        <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (1)</td>
+        <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (2)</td>
       </tr>
     </tbody>
   </table>
@@ -55,7 +55,8 @@ What would you like to do?
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-  | 4th Nov 2024 15:57 | **0** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** started a new game | [#3782](https://github.com/rossjrw/rossjrw/issues/3782) |  |
+  | 4th Nov 2024 15:57 | **0** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** started a new game | [#3782](https://github.com/rossjrw/rossjrw/issues/3782) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a1d620094e37da2ad108bec74b6a0ac9d365467d/games/current/board.3782.svg) |
+  | 4th Nov 2024 15:58 | **1** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 3    | [#3783](https://github.com/rossjrw/rossjrw/issues/3783) |  |
 
 </details>
 
@@ -225,6 +226,13 @@ What would you like to do?
    * The :white_circle:white team captured 6 black pieces and claimed 16 rosettes. 
    * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 37 moves. 
    * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#3630](https://github.com/rossjrw/rossjrw/issues/3630)).
+1. A game was started on 17th Oct 2024 by **[@Casper-Guo](https://github.com/Casper-Guo)** and ended on 4th Nov 2024. 
+   * The :white_circle:white team won. 
+   * 7 players played 156 moves across 2 weeks and 3 days. 
+   * The :black_circle:black team captured 8 white pieces and claimed 18 rosettes. 
+   * The :white_circle:white team captured 7 black pieces and claimed 22 rosettes. 
+   * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 64 moves. 
+   * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#3781](https://github.com/rossjrw/rossjrw/issues/3781)).
 
 </details>
 
