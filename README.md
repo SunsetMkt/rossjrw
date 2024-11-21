@@ -5,7 +5,7 @@ We're playing
 
 <p align="center">
   <b>It's the
-  :black_circle:black
+  :white_circle:white
   team's turn.</b>
 </p>
 
@@ -16,17 +16,18 @@ You're on a team! :wave:
   check back later, or [ask a
   friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
 * If you've not yet played a turn this game, make a move now to join the
-  **:black_circle:black** team.
+  **:white_circle:white** team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3822.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3823.svg"></p>
 
-  **:black_circle:Black team:**
-  You rolled a 1!
+  **:white_circle:White team:**
+  You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [    Move the piece on tile 2 to tile 3](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%402-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move a new piece to tile 2](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 7 to tile 9](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%407-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -45,7 +46,7 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (17)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (1)</td>
+        <td><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (17)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (2)</td>
         <td><b><a href="https://github.com/MatissesProjects">@MatissesProjects</a></b> (14)<br><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (8)</td>
       </tr>
     </tbody>
@@ -97,7 +98,8 @@ What would you like to do?
   | 19th Nov 2024 17:27 | **39** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece onto the board to position 1    | [#3819](https://github.com/rossjrw/rossjrw/issues/3819) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/6bd76bc8dbe4e0ce77f1f12e0eec17a0d5305449/games/current/board.3819.svg) |
   | 19th Nov 2024 17:53 | **40** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 5 to position 6    | [#3820](https://github.com/rossjrw/rossjrw/issues/3820) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/008955b2526f59575ce07d5ad2c65a1cfcf62774/games/current/board.3820.svg) |
   | 20th Nov 2024 00:01 | **41** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece onto the board to position 2    | [#3821](https://github.com/rossjrw/rossjrw/issues/3821) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/7537d55c00d961c3e2aa1b9ed14dc707f8d43c16/games/current/board.3821.svg) |
-  | 20th Nov 2024 04:45 | **42** | :white_circle: **[@MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 6 to position 7    | [#3822](https://github.com/rossjrw/rossjrw/issues/3822) |  |
+  | 20th Nov 2024 04:45 | **42** | :white_circle: **[@MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 6 to position 7    | [#3822](https://github.com/rossjrw/rossjrw/issues/3822) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/99f384e63f70f5fc6d888f15c177364629836d27/games/current/board.3822.svg) |
+  | 21st Nov 2024 06:00 | **43** | :black_circle: **[@RichardBotic](https://github.com/RichardBotic)** moved a black piece from position 2 to position 3    | [#3823](https://github.com/rossjrw/rossjrw/issues/3823) |  |
 
 </details>
 
