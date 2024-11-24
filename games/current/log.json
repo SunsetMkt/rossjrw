@@ -784,7 +784,7 @@
     "time": "2024-11-22T17:44:37.687Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/221f36a63633b6f63242cc7e7da15b1883f14204/games/current/board.3827.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -793,6 +793,23 @@
     },
     "fromPosition": 0,
     "toPosition": 1,
+    "roll": 1
+  },
+  {
+    "username": "vivax3794",
+    "issue": 3828,
+    "time": "2024-11-24T02:54:32.378Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 6,
+    "toPosition": 7,
     "roll": 1
   }
 ]
