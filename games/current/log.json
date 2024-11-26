@@ -886,7 +886,7 @@
     "time": "2024-11-25T18:00:54.866Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/c372d2bb657e0b152bd0c4a9bbc0a7e7be04acca/games/current/board.3833.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -896,5 +896,22 @@
     "fromPosition": 1,
     "toPosition": 3,
     "roll": 2
+  },
+  {
+    "username": "raquelmcoelho",
+    "issue": 3834,
+    "time": "2024-11-26T06:44:57.039Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 5,
+    "roll": 1
   }
 ]
