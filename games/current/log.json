@@ -1294,7 +1294,7 @@
     "time": "2025-01-04T09:50:46.916Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/34bc2c50062a03ae57046ee7a13c9b70e809e862/games/current/board.3857.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -1304,5 +1304,22 @@
     "fromPosition": 1,
     "toPosition": 4,
     "roll": 3
+  },
+  {
+    "username": "anakeyofsun",
+    "issue": 3858,
+    "time": "2025-01-06T14:57:38.737Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
+    "roll": 2
   }
 ]
