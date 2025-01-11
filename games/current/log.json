@@ -1697,7 +1697,7 @@
     "time": "2025-01-09T23:40:45.081Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/fe9b8a2067a93c44aaac90a316eb1d078333dddd/games/current/board.3880.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1707,5 +1707,22 @@
     "fromPosition": 0,
     "toPosition": 2,
     "roll": 2
+  },
+  {
+    "username": "rspencer01",
+    "issue": 3881,
+    "time": "2025-01-11T19:27:11.047Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": true,
+      "gameWon": false
+    },
+    "fromPosition": 14,
+    "toPosition": 15,
+    "roll": 1
   }
 ]
