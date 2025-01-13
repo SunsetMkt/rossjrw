@@ -1748,7 +1748,7 @@
     "time": "2025-01-11T19:51:07.675Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/e01af83e01cd2f00f395387c8414de11b71fb937/games/current/board.3883.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1757,6 +1757,23 @@
     },
     "fromPosition": 4,
     "toPosition": 6,
+    "roll": 2
+  },
+  {
+    "username": "lulunac27a",
+    "issue": 3884,
+    "time": "2025-01-13T04:02:13.040Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 4,
     "roll": 2
   }
 ]
