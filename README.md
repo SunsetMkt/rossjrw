@@ -1,11 +1,11 @@
 Welcome to my Github profile!
 We're playing
 [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur).
-**Game #25 is in progress,** but you can join!
+**Game #26 is in progress,** but you can join!
 
 <p align="center">
   <b>It's the
-  :black_circle:black
+  :white_circle:white
   team's turn.</b>
 </p>
 
@@ -16,22 +16,22 @@ You're on a team! :wave:
   check back later, or [ask a
   friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
 * If you've not yet played a turn this game, make a move now to join the
-  **:black_circle:black** team.
+  **:white_circle:white** team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3907.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3908.svg"></p>
 
-  **:black_circle:Black team:**
-  You rolled a 3!
+  **:white_circle:White team:**
+  You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [    Move a new piece to tile 3](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move a new piece to tile 2](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
 <details>
-<summary><b>Game #25 so far</b></summary>
+<summary><b>Game #26 so far</b></summary>
 
 ## Who's on each team?
 
@@ -45,7 +45,7 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (1)</td>
+        <td><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (2)</td>
         <td></td>
       </tr>
     </tbody>
@@ -55,7 +55,8 @@ What would you like to do?
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-  | 14th Jan 2025 16:12 | **0** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** started a new game | [#3907](https://github.com/rossjrw/rossjrw/issues/3907) |  |
+  | 14th Jan 2025 16:12 | **0** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** started a new game | [#3907](https://github.com/rossjrw/rossjrw/issues/3907) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/ba9bdd49c409152e905083ab067eca674fa1d84b/games/current/board.3907.svg) |
+  | 14th Jan 2025 16:13 | **1** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece onto the board to position 3    | [#3908](https://github.com/rossjrw/rossjrw/issues/3908) |  |
 
 </details>
 
@@ -232,6 +233,13 @@ What would you like to do?
    * The :white_circle:white team captured 7 black pieces and claimed 22 rosettes. 
    * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 64 moves. 
    * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#3781](https://github.com/rossjrw/rossjrw/issues/3781)).
+1. A game was started on 4th Nov 2024 by **[@Casper-Guo](https://github.com/Casper-Guo)** and ended on 14th Jan 2025. 
+   * The :black_circle:black team won. 
+   * 11 players played 131 moves across 2 months and 1 week. 
+   * The :black_circle:black team captured 5 white pieces and claimed 13 rosettes. 
+   * The :white_circle:white team captured 4 black pieces and claimed 13 rosettes. 
+   * The MVP of the winning team was **[@LucasFASouza](https://github.com/LucasFASouza)**, who played 57 moves. 
+   * The winning move was made by **[@LucasFASouza](https://github.com/LucasFASouza)** ([#3906](https://github.com/rossjrw/rossjrw/issues/3906)).
 
 </details>
 

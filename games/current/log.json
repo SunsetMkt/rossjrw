@@ -5,10 +5,27 @@
     "time": "2025-01-14T16:12:52.315Z",
     "team": "b",
     "action": "new",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/ba9bdd49c409152e905083ab067eca674fa1d84b/games/current/board.3907.svg",
     "events": null,
     "fromPosition": null,
     "toPosition": null,
     "roll": null
+  },
+  {
+    "username": "LucasFASouza",
+    "issue": 3908,
+    "time": "2025-01-14T16:13:28.537Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 3,
+    "roll": 3
   }
 ]
