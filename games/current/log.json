@@ -221,7 +221,7 @@
     "time": "2025-01-17T18:18:36.548Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/8197a9039c9054e780d6f7eb8453caaf1acfa16e/games/current/board.3920.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -231,5 +231,22 @@
     "fromPosition": 13,
     "toPosition": 14,
     "roll": 1
+  },
+  {
+    "username": "hoprik",
+    "issue": 3922,
+    "time": "2025-01-18T19:58:38.148Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
+    "roll": 2
   }
 ]
