@@ -272,7 +272,7 @@
     "time": "2025-01-21T13:46:35.452Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/61a8725f3219a11e89afa6e87522b9fcdef49e39/games/current/board.3924.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -282,5 +282,22 @@
     "fromPosition": 2,
     "toPosition": 5,
     "roll": 3
+  },
+  {
+    "username": "DeeLaw-01",
+    "issue": 3925,
+    "time": "2025-01-27T10:17:21.644Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": true,
+      "gameWon": false
+    },
+    "fromPosition": 11,
+    "toPosition": 15,
+    "roll": 4
   }
 ]
