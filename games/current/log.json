@@ -374,7 +374,7 @@
     "time": "2025-01-29T17:39:41.915Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/168b3af19237b509ea4a09bb37116c6bcc2e63b9/games/current/board.3930.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -384,5 +384,22 @@
     "fromPosition": 8,
     "toPosition": 10,
     "roll": 2
+  },
+  {
+    "username": "exeNyx7",
+    "issue": 3931,
+    "time": "2025-02-01T02:53:01.337Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 3,
+    "roll": 3
   }
 ]
