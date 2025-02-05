@@ -408,6 +408,23 @@
     "time": "2025-02-03T15:34:47.648Z",
     "team": "w",
     "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/609a69f303b751d58aaf5dc5d91a40438aa4846b/games/current/board.3932.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
+  },
+  {
+    "username": "Jaliz9087",
+    "issue": 3933,
+    "time": "2025-02-05T11:46:11.967Z",
+    "team": "b",
+    "action": "move",
     "boardImage": null,
     "events": {
       "rosetteClaimed": false,
