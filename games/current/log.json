@@ -646,7 +646,7 @@
     "time": "2025-02-18T18:25:12.655Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/f7d1d1f230c7cfb88d000cf20b618c4e0b245aaa/games/current/board.3946.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -656,5 +656,22 @@
     "fromPosition": 0,
     "toPosition": 2,
     "roll": 2
+  },
+  {
+    "username": "munneth",
+    "issue": 3947,
+    "time": "2025-02-20T06:59:45.596Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 3,
+    "toPosition": 6,
+    "roll": 3
   }
 ]
