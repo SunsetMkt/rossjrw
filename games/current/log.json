@@ -697,7 +697,7 @@
     "time": "2025-02-20T15:51:35.831Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/44de8812e3e11bc8311047bb72b74fbb05d28986/games/current/board.3949.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -706,6 +706,23 @@
     },
     "fromPosition": 4,
     "toPosition": 6,
+    "roll": 2
+  },
+  {
+    "username": "uknes",
+    "issue": 3950,
+    "time": "2025-02-21T05:19:50.642Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
     "roll": 2
   }
 ]
