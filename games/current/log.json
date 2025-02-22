@@ -748,7 +748,7 @@
     "time": "2025-02-21T05:23:32.978Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/61788c4b44a2321d520e25abb524feffa3764950/games/current/board.3952.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -757,6 +757,23 @@
     },
     "fromPosition": 8,
     "toPosition": 10,
+    "roll": 2
+  },
+  {
+    "username": "JadeFluteSwordsmanship",
+    "issue": 3953,
+    "time": "2025-02-22T06:41:00.556Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 4,
     "roll": 2
   }
 ]
