@@ -884,7 +884,7 @@
     "time": "2025-02-23T17:35:05.963Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/3db3064fec0232e8f8b6566d0c68e7b49c8fe386/games/current/board.3960.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -894,5 +894,22 @@
     "fromPosition": 10,
     "toPosition": 13,
     "roll": 3
+  },
+  {
+    "username": "AnibalSV",
+    "issue": 3961,
+    "time": "2025-02-25T13:30:08.500Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 4,
+    "roll": 4
   }
 ]
