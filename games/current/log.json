@@ -901,7 +901,7 @@
     "time": "2025-02-25T13:30:08.500Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/3009cafe9b56ba548a5ad02f47d2903c798dd504/games/current/board.3961.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -911,5 +911,22 @@
     "fromPosition": 0,
     "toPosition": 4,
     "roll": 4
+  },
+  {
+    "username": "Gor0d",
+    "issue": 3962,
+    "time": "2025-02-25T20:24:55.604Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 6,
+    "roll": 2
   }
 ]
