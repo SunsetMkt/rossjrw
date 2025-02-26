@@ -935,7 +935,7 @@
     "time": "2025-02-25T21:43:45.845Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/cc1f34d27f7a09ff69f5c61ef9d1a3ac2d530737/games/current/board.3963.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -945,5 +945,22 @@
     "fromPosition": 14,
     "toPosition": 15,
     "roll": 1
+  },
+  {
+    "username": "mohsinziaa",
+    "issue": 3964,
+    "time": "2025-02-26T12:22:38.556Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 3,
+    "roll": 3
   }
 ]
